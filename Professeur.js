@@ -1,3 +1,8 @@
+
+/**
+ * Cette classe représente un employé d'une Université
+ */
+
 class EmployeUniversite {
     constructor(nom, prenom, numeroEmploye, anneesExperience) {
         this.nom = nom;
